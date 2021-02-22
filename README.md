@@ -2,7 +2,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Whop42/meteor-client)
 ![GitHub lines of code](https://tokei.rs/b1/github/Whop42/meteor-client)
 ![GitHub contributors](https://img.shields.io/github/contributors/Whop42/meteor-client)
-![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MeteorDevelopment/meteor-client)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MeteorDevelopment/meteor-client)
 
 
 My personal fork of Meteor Client
