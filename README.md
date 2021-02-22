@@ -5,7 +5,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MeteorDevelopment/meteor-client)
 
 
-My personal fork of Meteor Client
+My personal fork of Meteor Client (gives me a cape lol [If you want a cape on this version, ask me])
 
 ## Older Versions
 If you want to connect to servers that run older version you can download [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect).
