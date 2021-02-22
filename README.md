@@ -23,6 +23,7 @@ If you want to connect to servers that run older version you can download [multi
 
 ## Thank you
 [Meteor Dev](https://github.com/MeteorDevelopment) for [Meteor Client](https://github.com/MeteorDevelopment/meteor-client)
+
 [Cabaletta](https://github.com/cabaletta) for [Baritone](https://github.com/cabaletta/baritone)  
 [CDAGaming](https://gitlab.com/CDAGaming) for [Fabritone](https://gitlab.com/CDAGaming/fabritone)  
 [Minn](https://github.com/MinnDevelopment) for [Discord Rpc](https://github.com/MinnDevelopment/java-discord-rpc)  
