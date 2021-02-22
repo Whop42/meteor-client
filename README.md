@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MeteorDevelopment/meteor-client)
+
 # Meteor Client
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Whop42/meteor-client)
 ![GitHub lines of code](https://tokei.rs/b1/github/Whop42/meteor-client)
