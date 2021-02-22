@@ -16,7 +16,7 @@ import java.io.InputStream;
 import java.util.*;
 
 public class Capes {
-    private static final String CAPE_OWNERS_URL = "http://meteorclient.com/api/capeowners";
+    private static final String CAPE_OWNERS_URL = "https://github.com/Whop42/meteor-client/raw/master/src/main/java/minegame159/meteorclient/utils/network/cape_owners.txt";
     private static final String CAPES_URL = "http://meteorclient.com/api/capes";
 
     private static final Map<UUID, String> OWNERS = new HashMap<>();
@@ -31,7 +31,7 @@ public class Capes {
         // Cape owners
         MeteorExecutor.execute(() -> HttpUtils.getLines(CAPE_OWNERS_URL, s -> {
             String[] split = s.split(" ");
-
+            
             if (split.length >= 2) {
                 OWNERS.put(UUID.fromString(split[0]), split[1]);
                 if (!TEXTURES.containsKey(split[1])) TEXTURES.put(split[1], new Cape(split[1]));

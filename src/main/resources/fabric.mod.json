@@ -4,11 +4,12 @@
   "version": "${version}",
 
   "name": "Meteor Client",
-  "description": "Based utility mod.",
+  "description": "Skidded utility mod.",
   "authors": [
     "MineGame159",
     "squidoodly",
-    "seasnail"
+    "seasnail",
+    "Whop42"
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
