@@ -1,7 +1,4 @@
 # Meteor Client
-![Discord](https://img.shields.io/discord/689197705683140636)
-![GitHub last commit](https://img.shields.io/github/last-commit/Whop42/meteor-client)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Whop42/meteor-client)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Whop42/meteor-client)
 ![GitHub lines of code](https://tokei.rs/b1/github/Whop42/meteor-client)
 ![GitHub contributors](https://img.shields.io/github/contributors/Whop42/meteor-client)
