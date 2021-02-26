@@ -102,7 +102,12 @@ public class Commands extends System<Commands> {
         }
     }
 
-    private void add(Command command) {
+    public void add(Command command) {
+        // Remove the previous command with the same name
+        commands.removeIf(command1 -> command1.getName().equals(command.getName()));
+        commandInstances.values().removeIf(command1 -> command1.getName().equals(command.getName()));
+
+        // Add the command
         command.registerTo(DISPATCHER);
         commands.add(command);
         commandInstances.put(command.getClass(), command);
